@@ -1,0 +1,136 @@
+[root@localhost saod]# 
+./lab2
+Input number of elements: 50000
+Elapsed time: 20.762676 sec
+
+[root@localhost saod]# 
+
+./lab2
+Input number of elements: 100000
+
+Elapsed time: 79.901677 sec
+
+[root@localhost saod]# 
+
+./lab2
+Input number of elements: 150000
+
+Elapsed time: 197.576625 sec
+
+[root@localhost saod]# 
+
+./lab2
+Input number of elements: 200000
+
+Elapsed time: 325.484919 sec
+
+[root@localhost saod]#
+
+ ./lab2
+Input number of elements: 250000
+
+Elapsed time: 512.462124 sec
+
+[root@localhost saod]# 
+
+./lab2
+Input number of elements: 300000
+
+Elapsed time: 754.691184 sec
+
+[root@localhost saod]# 
+
+./lab2
+Input number of elements: 350000
+ 
+Elapsed time: 1178.300769 sec
+
+[root@localhost saod]# 
+
+./lab2
+Input number of elements: 400000
+
+Elapsed time: 1330.454606 sec
+
+[root@localhost saod]#  
+
+./lab2
+Input number of elements: 450000
+
+Elapsed time: 1865.722565 sec
+
+[root@localhost saod]# 
+
+./lab2
+Input number of elements: 500000 
+
+Elapsed time: 2478.919732 sec
+
+[root@localhost saod]# 
+
+./lab2
+Input number of elements: 550000 
+
+Elapsed time: 2887.316421 sec
+
+[d@localhost saod]$ 
+
+./lab2
+Input number of elements: 600000
+
+Elapsed time: 3271.618317 sec
+
+[d@localhost saod]$ 
+
+
+./lab2
+Input number of elements: 650000
+
+Elapsed time: 3554.437001 sec
+
+[d@localhost saod]$ 
+
+./lab2
+Input number of elements: 700000
+
+Elapsed time: 4038.614609 sec
+
+[d@localhost saod]$ 
+
+./lab2
+Input number of elements: 750000
+
+Elapsed time: 4627.351257 sec
+
+[d@localhost saod]$ 
+
+./lab2
+Input number of elements: 800000
+
+Elapsed time: 5223.648642 sec
+
+[d@localhost saod]$ 
+
+./lab2
+Input number of elements: 850000
+
+Elapsed time: 6237.970580 sec
+
+[d@localhost saod]$ 
+
+./lab2
+Input number of elements: 900000
+
+Elapsed time: 6661.866628 sec
+
+
+sort of 950000 numbers
+
+Elapsed time: 7745.589656 sec
+
+[d@localhost saod]$ 
+
+./lab2
+Input number of elements: 1000000
+
+Elapsed time: 9211.693853 sec

@@ -1,0 +1,39 @@
+Elapsed time for 50000 elements: 0,035663 sec
+
+Elapsed time for 100000 elements: 0,076658 sec
+
+Elapsed time for 150000 elements: 0,119875 sec
+
+Elapsed time for 200000 elements: 0,165656 sec
+
+Elapsed time for 250000 elements: 0,212550 sec
+
+Elapsed time for 300000 elements: 0,260253 sec
+
+Elapsed time for 350000 elements: 0,308420 sec
+
+Elapsed time for 400000 elements: 0,358670 sec
+
+Elapsed time for 450000 elements: 0,408801 sec
+
+Elapsed time for 500000 elements: 0,458796 sec
+
+Elapsed time for 550000 elements: 0,510592 sec
+
+Elapsed time for 600000 elements: 0,563807 sec
+
+Elapsed time for 650000 elements: 0,617091 sec
+
+Elapsed time for 700000 elements: 0,669407 sec
+
+Elapsed time for 750000 elements: 0,722983 sec
+
+Elapsed time for 800000 elements: 0,775991 sec
+
+Elapsed time for 850000 elements: 0,830368 sec
+
+Elapsed time for 900000 elements: 0,885563 sec
+
+Elapsed time for 950000 elements: 0,941840 sec
+
+Elapsed time for 1000000 elements: 0,995301 sec
